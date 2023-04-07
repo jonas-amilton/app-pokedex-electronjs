@@ -1,1 +1,1 @@
-# tarefa api em JavaScript puro - Unisinos - parte 2
+# tarefa api em Electron JS - Unisinos - parte 2
